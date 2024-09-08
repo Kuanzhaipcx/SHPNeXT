@@ -57,7 +57,7 @@ used in this article have been put into the
 data 
 ```
 
-in this compressed package. Due to privacy restrictions, we are unable to provide the 
+in this compressed package. You can download it from the link ``` https://drive.google.com/file/d/1CTfb5x9I79FUreqRgssu01hqnsjh8h6i/view?usp=drive_link ```. Due to privacy restrictions, we are unable to provide the 
 
 ```
 HUCM 
