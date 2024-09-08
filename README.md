@@ -10,7 +10,7 @@ MMsegmentation
 . Please download and follow the corresponding tutorial to run and compare the experimental code. The method code mentioned in this article has been put into this compressed package. Put 
 
 ```
-segfinal_backbone.py
+SHPNeXt_backbone.py
 ```
 
  and the corresponding 
