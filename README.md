@@ -1,7 +1,9 @@
 # SHPNeXT
 SHPNeXT: Enhanced Tongue Image Segmentation Across Multi-scale and Variable Resolutions for Traditional Chinese Medicine
 
-The relevant experimental code of this paper relies on the open source library 
+
+This repository only stores relevant code for the methods proposed in this paper.
+Another experimental code of this paper relies on the open source library 
 
 ```
 MMsegmentation: https://github.com/open-mmlab/mmsegmentation.git
