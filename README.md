@@ -4,7 +4,7 @@ SHPNeXT: Enhanced Tongue Image Segmentation Across Multi-scale and Variable Reso
 The relevant experimental code of this paper relies on the open source library 
 
 ```
-MMsegmentation
+MMsegmentation: https://github.com/open-mmlab/mmsegmentation.git
 ```
 
 . Please download and follow the corresponding tutorial to run and compare the experimental code. The method code mentioned in this article has been put into this compressed package. Put 
