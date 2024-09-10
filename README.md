@@ -27,7 +27,7 @@ conda install pytorch torchvision cpuonly -c pytorch
 **Step 3.** The method code proposed in this article are ``` SHPNeXt_config.py ```, ``` SHPNeXt_backbone.py ```, ```poolformer.py```, ```hire-mlp.py``` and ```ham_head_nuclearnmf_decoder.py ```. 
 Put the ``` SHPNeXt_backbone.py ```, ```poolformer.py``` and ```hire-mlp.py``` into ```mmseg/models/backbones```, put the ```ham_head_nuclearnmf_decoder.py ``` into ```mmseg/models/decode_heads```, and put the ``` SHPNeXt_config.py ``` into dir of ```config```.
 
-**Step 4.** Prepare the datasets. The two open source data sets ```BioHit``` and ```LRCM ``` used in this article can download from the link ``` https://drive.google.com/file/d/1CTfb5x9I79FUreqRgssu01hqnsjh8h6i/view?usp=drive_link ```. Due to privacy restrictions, we are unable to provide the ```HUCM ``` data set.
+**Step 4.** Prepare the datasets. The two open source data sets ```BioHit``` and ```LRCM ``` used in this article can download from the link [Dataset](https://drive.google.com/file/d/1CTfb5x9I79FUreqRgssu01hqnsjh8h6i/view?usp=drive_link). Due to privacy restrictions, we are unable to provide the ```HUCM ``` data set.
 
 ## 2.Installation
 
